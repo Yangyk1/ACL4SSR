@@ -465,3 +465,4 @@ DOMAIN,music.youtube.com
 DOMAIN,tktn.be
 DOMAIN,xmpp4.tktn.be
 DOMAIN,a1.tktn.be
+IP-CIDR,205.164.56.27/24,no-resolve
