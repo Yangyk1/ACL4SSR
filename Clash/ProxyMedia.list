@@ -466,3 +466,7 @@ DOMAIN,tktn.be
 DOMAIN,xmpp4.tktn.be
 DOMAIN,a1.tktn.be
 IP-CIDR,205.164.56.27/24,no-resolve
+IP-CIDR,205.164.56.28/24,no-resolve
+IP-CIDR,50.117.27.98/24,no-resolve
+IP-CIDR,69.46.75.86/24,no-resolve
+IP-CIDR,69.46.75.84/24,no-resolve
