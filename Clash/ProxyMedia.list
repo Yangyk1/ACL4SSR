@@ -102,6 +102,7 @@ DOMAIN-SUFFIX,dzcdn.net
 DOMAIN-SUFFIX,disco-api.com
 DOMAIN-SUFFIX,discovery.com
 DOMAIN-SUFFIX,uplynk.com
+DOMAIN-SUFFIX,meta.ai
 
 # DisneyPlus
 USER-AGENT,Disney*
